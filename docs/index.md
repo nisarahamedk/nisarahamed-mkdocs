@@ -1,24 +1,24 @@
 ---
 title: About Me
-description: Explore AI, data science, and entrepreneurship with Dave Ebbelaar. Learn about Datalumina, AI tutorials, freelancing, and innovative AI solutions for businesses.
-keywords: Dave Ebbelaar, AI entrepreneur, Datalumina, AI tutorials, Data Freelancer, GenAI Launchpad
-author: Dave Ebbelaar
-canonical_url: https://www.daveebbelaar.com/
+description: Explore AI, data science, and entrepreneurship with Nisar Ahamed. Learn about Datalumina, AI tutorials, freelancing, and innovative AI solutions for businesses.
+keywords: Nisar Ahamed, AI entrepreneur, Datalumina, AI tutorials, Data Freelancer, GenAI Launchpad
+author: Nisar Ahamed
+canonical_url: https://www.nisarahamed.com/
 ---
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "name": "Dave Ebbelaar",
-  "url": "https://www.daveebbelaar.com/",
+  "name": "Nisar Ahamed",
+  "url": "https://www.nisarahamed.com/",
   "image": "https://avatars.githubusercontent.com/u/34709402?v=4",
   "sameAs": [
     "https://www.youtube.com/channel/UCn8ujwUInbJkBhffxqAPBVQ",
-    "https://www.youtube.com/@daveebbelaar",
-    "https://www.linkedin.com/in/daveebbelaar/",
-    "https://github.com/daveebbelaar"
-    "https://www.skool.com/@daveebbelaar"
+    "https://www.youtube.com/@nisarahamed",
+    "https://www.linkedin.com/in/nisarahamed/",
+    "https://github.com/nisarahamed"
+    "https://www.skool.com/@nisarahamed"
   ],
   "jobTitle": "Founder & CEO",
   "worksFor": {
@@ -53,7 +53,7 @@ canonical_url: https://www.daveebbelaar.com/
 
 <div class="profile-image-grid" markdown>
 
-![Dave Ebbelaar, AI Entrepreneur and Educator](assets/@daveebbelaar.jpg){ .profile-image alt="Portrait of Dave Ebbelaar, AI entrepreneur and educator" }
+![Nisar Ahamed, AI Entrepreneur and Educator](assets/@nisarahamed.jpg){ .profile-image alt="Portrait of Nisar Ahamed, AI entrepreneur and educator" }
 
 </div>
 
@@ -61,7 +61,7 @@ canonical_url: https://www.daveebbelaar.com/
 
 ## About me
 
-Hi! I'm Dave, an entrepreneur and educator from the Netherlands. I work with technical professionals facing the overwhelming pace of AI innovation and businesses struggling to translate AI hype into competitive advantage. Whether you're a developer watching your skills becoming obsolete or a company unsure how to implement AI effectively—the challenge is the same: how to effectively use this technology before your competitors do.
+Hi! I'm Nisar, an entrepreneur and educator from the Netherlands. I work with technical professionals facing the overwhelming pace of AI innovation and businesses struggling to translate AI hype into competitive advantage. Whether you're a developer watching your skills becoming obsolete or a company unsure how to implement AI effectively—the challenge is the same: how to effectively use this technology before your competitors do.
 
 My artificial intelligence journey spans over a decade, with bachelor's and master's degrees in the field and experience building custom data and AI systems across utilities, government, and e-commerce sectors. My tech stack includes Python, PostgreSQL, ML, FastAPI, OpenAI, Claude, Azure, vector databases, RAG, and LLM integration for enterprise applications.
 
@@ -107,7 +107,7 @@ Here's what sets me apart and how I can help drive value for your business:
 
     ---
 
-    "Dave is a true professional and my collaboration with him has been flawless. **He took his time and spent 3 days with me and my team in Mamaia, Romania where he was a guest for 3 sessions of my podcast Waves of AI**. He is one of the most competent people I know that has a real understanding of how AI works and how to integrate it quickly in your company."
+    "Nisar is a true professional and my collaboration with him has been flawless. **He took his time and spent 3 days with me and my team in Mamaia, Romania where he was a guest for 3 sessions of my podcast Waves of AI**. He is one of the most competent people I know that has a real understanding of how AI works and how to integrate it quickly in your company."
 
 -   :material-format-quote-open:{ .lg .middle } Barbara van den Bosch
     
@@ -123,7 +123,7 @@ Here's what sets me apart and how I can help drive value for your business:
 
     ---
 
-    "My experience with Datalumina has been excellent. **They think along with you every step of the way, from proof of concept to a fully functional product**. I was amazed by the quality of the results and found the collaboration very enjoyable. I highly recommend Dave and Datalumina to everyone!"
+    "My experience with Datalumina has been excellent. **They think along with you every step of the way, from proof of concept to a fully functional product**. I was amazed by the quality of the results and found the collaboration very enjoyable. I highly recommend Nisar and Datalumina to everyone!"
 
 -   :material-format-quote-open:{ .lg .middle } Kelsen
     
@@ -131,7 +131,7 @@ Here's what sets me apart and how I can help drive value for your business:
 
     ---
 
-    "I am thankful for having come across Dave and Data Freelancer, it was one of the best investment decisions I've made in 2024. **From effective ways to create inbound marketing strategies using social media, through solution architecture design to address all kinds of business challenges**, you will extract a great deal of value from diverse perspectives."
+    "I am thankful for having come across Nisar and Data Freelancer, it was one of the best investment decisions I've made in 2024. **From effective ways to create inbound marketing strategies using social media, through solution architecture design to address all kinds of business challenges**, you will extract a great deal of value from diverse perspectives."
 
 </div>
 

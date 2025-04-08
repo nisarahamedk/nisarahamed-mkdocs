@@ -17,42 +17,6 @@ This repository provides a template for creating a professional freelance portfo
 As you go through this setup, please find all the most up to date information in the [official documentation here](https://squidfunk.github.io/mkdocs-material/getting-started/).
 
 ## Quick Start
-
-
-### Mac
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/data-freelancer-mastermind/mkdocs-website-template.git
-   cd mkdocs-website-template
-   ```
-
-2. **Install MkDocs Material**
-   ```bash
-   pip install "mkdocs-material[imaging]"
-   
-   # For MacOS, install required dependencies
-   brew install cairo freetype libffi libjpeg libpng zlib pngquant
-   ```
-
-3. **Preview your site**
-   ```bash
-    # For MacOS M1/M2 users
-    export DYLD_FALLBACK_LIBRARY_PATH=/opt/homebrew/lib
-    mkdocs serve
-   ```
-   Visit `http://localhost:8000` to see your site.
-
-> **Note on Operating Systems**: 
-> - This setup has been thoroughly tested on MacOS (Intel and Apple Silicon)
-> - Windows setup instructions are still being updated
-> - If you encounter any issues on Windows:
->   1. First, check the [official MkDocs Material documentation](https://squidfunk.github.io/mkdocs-material/getting-started/)
->   2. Try to resolve the issue using their troubleshooting guides
->   3. If the problem persists, please message Dave on Circle for assistance
->   4. Your feedback will help improve the documentation for other Windows users!
-
-
-### Using Docker
 1. **Download & Install Docker Desktop**
 https://docs.docker.com/get-started/get-docker/
 
