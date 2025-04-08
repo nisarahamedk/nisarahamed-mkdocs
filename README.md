@@ -18,6 +18,8 @@ As you go through this setup, please find all the most up to date information in
 
 ## Quick Start
 
+
+### Mac
 1. **Clone this repository**
    ```bash
    git clone https://github.com/data-freelancer-mastermind/mkdocs-website-template.git
@@ -48,6 +50,24 @@ As you go through this setup, please find all the most up to date information in
 >   2. Try to resolve the issue using their troubleshooting guides
 >   3. If the problem persists, please message Dave on Circle for assistance
 >   4. Your feedback will help improve the documentation for other Windows users!
+
+
+### Using Docker
+1. **Download & Install Docker Desktop**
+https://docs.docker.com/get-started/get-docker/
+
+2. **Clone this repository**
+   ```bash
+   git clone https://github.com/data-freelancer-mastermind/mkdocs-website-template.git
+   cd mkdocs-website-template
+   ```
+
+3. **Start the server**
+   ```bash
+   chmod +x start_server.sh
+   ./start_server.sh
+   ```
+   Visit `http://localhost:8000` to see your site.
 
 ## Customizing Your Portfolio
 
