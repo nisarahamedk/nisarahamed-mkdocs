@@ -12,20 +12,12 @@ canonical_url: https://www.nisarahamed.com/
   "@type": "Person",
   "name": "Nisar Ahamed",
   "url": "https://www.nisarahamed.com/",
-  "image": "https://avatars.githubusercontent.com/u/34709402?v=4",
+  "image": "https://avatars.githubusercontent.com/u/34828828?s=400&u=235dda06cc46c067ff02308888043854c5bf07a4&v=4",
   "sameAs": [
-    "https://www.youtube.com/channel/UCn8ujwUInbJkBhffxqAPBVQ",
-    "https://www.youtube.com/@nisarahamed",
     "https://www.linkedin.com/in/nisarahamed/",
-    "https://github.com/nisarahamed"
-    "https://www.skool.com/@nisarahamed"
+    "https://github.com/nisarahamedk"
   ],
-  "jobTitle": "Founder & CEO",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Datalumina",
-    "url": "https://www.datalumina.com/"
-  },
+  "jobTitle": "Senior Software Engineer",
 }
 </script>
 
@@ -50,13 +42,6 @@ canonical_url: https://www.nisarahamed.com/
 [Book Free Intro Call :material-arrow-top-right:](https://www.calendly.com){ .md-button .md-button--primary }
 
 </div>
-
-<div class="profile-image-grid" markdown>
-
-![Nisar Ahamed, AI Entrepreneur and Educator](assets/@nisarahamed.jpg){ .profile-image alt="Portrait of Nisar Ahamed, AI entrepreneur and educator" }
-
-</div>
-
 </div>
 
 ## About me
